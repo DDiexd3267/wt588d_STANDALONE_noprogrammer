@@ -66,12 +66,6 @@ Please feel free to open an issue or submit a pull request.
 
 ## License
 
-[Choose appropriate license - MIT, Creative Commons, etc.]
-
-## Support
-
-- 💬 [Open a Discussion](https://github.com/DDiexd3267/wt588d_STANDALONE_noprogrammer/discussions) for questions and method sharing
-- 🐛 [Report Issues](https://github.com/DDiexd3267/wt588d_STANDALONE_noprogrammer/issues) for problems
-- 📧 [Contact](link-if-applicable)
+This is a guide, eveyone can use this!
 
 ---
