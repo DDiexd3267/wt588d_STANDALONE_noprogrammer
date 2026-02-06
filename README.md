@@ -10,7 +10,7 @@ I found really cheap mp3 modules off aliexpress that dont rely on those pesky ab
 ## Why This Project?
 
 The wt588d is a useful microcontroller, but traditional programming methods require:
-the ultra expensive useless now with micro usb programmer!
+the ultra expensive useless(old) mini usb programmer!
 This project eliminates these barriers by sharing alternative approaches discovered through searching datasheets all night
 
 ## How It Works
