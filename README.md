@@ -45,6 +45,8 @@ Use ch341a/b type programmers or just any mcu spi compatible when the bin file i
 - Basic jumper wires for connections
 
 ### SPI Flash Pinout (from WT55U02-18P schematic)
+<img width="751" height="543" alt="Captura de pantalla 2026-02-07 003448" src="https://github.com/user-attachments/assets/a8d8be14-b7f7-405d-9462-890571aa2efc" />
+<img width="481" height="214" alt="Captura de pantalla 2026-02-07 004904" src="https://github.com/user-attachments/assets/83764dbe-b5f0-4e83-b552-936d1fc3edd5" />
 
 The SPI Flash memory on the wt588d uses standard SPI connections:
 - **CLK** - Clock
