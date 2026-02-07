@@ -65,8 +65,12 @@ The SPI Flash memory on the wt588d uses standard SPI connections:
 - **RESET** - Reset pin (tied low during programming to enable SPI access)
 
 On the software click compile when finished and search for a bin file, this is the file we will use on asprogrammer in case of ch341a/b and on bin flasher tools on mcus
+
+
 <img width="825" height="594" alt="image" src="https://github.com/user-attachments/assets/77ce227e-5d5f-459c-a851-fea5fd4cc6df" />
+
 <img width="672" height="168" alt="image" src="https://github.com/user-attachments/assets/0be4bbc3-7474-409a-8e3c-07ba9e80e168" />
+
 <img width="1369" height="317" alt="image" src="https://github.com/user-attachments/assets/955f4354-3f4b-4f6c-98e4-7e99c33ecbac" />
 
 
