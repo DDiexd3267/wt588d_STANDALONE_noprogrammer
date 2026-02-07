@@ -65,13 +65,6 @@ Follow a tutorial on how to flash bin files, and thats it!
 
 Please feel free to open an issue or submit a pull request.
 
-## Resources & References
-
-- **[WT55U02 Online Application Manual](https://www.manuallib.com/download/pdf7/GUANGZHOU-WEICHUANGKJ-WT55U02-ON-LINE-APPLICATION-MANUAL.PDF)** - Primary schematic reference
-- **[CH341A Documentation](link)** - CH341A USB programmer resources
-- [SPI Protocol Guide](link)
-- [Community Forum/Discussions](link)
-
 ## License
 
 This is a guide, eveyone can use this!
