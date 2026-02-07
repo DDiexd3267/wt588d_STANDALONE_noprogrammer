@@ -51,7 +51,8 @@ Use ch341a/b type programmers or just any mcu spi compatible when the bin file i
 Use this pinout for the ch341a/b or mcu equivalent and dont forget to short reset!
 
 
-<img width="670" height="372" alt="image" src="https://github.com/user-attachments/assets/59163c5f-efb3-4f57-a00b-12b7930fc75a" />
+<img width="670" height="372" alt="image" src="https://github.com/user-attachments/assets/90f6ef79-aa2c-43e4-aa2d-daf298275daf" />
+
 <img width="574" height="436" alt="image" src="https://github.com/user-attachments/assets/fd07c729-d88b-4b65-b93d-bd770cb71a02" />
 
 The SPI Flash memory on the wt588d uses standard SPI connections:
