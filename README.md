@@ -47,8 +47,11 @@ Use ch341a/b type programmers or just any mcu spi compatible when the bin file i
 ### SPI Flash Pinout (from WT55U02-18P schematic)
 <img width="751" height="543" alt="Captura de pantalla 2026-02-07 003448" src="https://github.com/user-attachments/assets/a8d8be14-b7f7-405d-9462-890571aa2efc" />
 <img width="481" height="214" alt="Captura de pantalla 2026-02-07 004904" src="https://github.com/user-attachments/assets/83764dbe-b5f0-4e83-b552-936d1fc3edd5" />
+
 Use this pinout for the ch341a/b or mcu equivalent and dont forget to short reset!
-<img width="814" height="407" alt="image" src="https://github.com/user-attachments/assets/2c41777f-3787-4a99-a6f5-913de1d8c7f4" />
+
+
+<img width="670" height="372" alt="image" src="https://github.com/user-attachments/assets/59163c5f-efb3-4f57-a00b-12b7930fc75a" />
 <img width="574" height="436" alt="image" src="https://github.com/user-attachments/assets/fd07c729-d88b-4b65-b93d-bd770cb71a02" />
 
 The SPI Flash memory on the wt588d uses standard SPI connections:
