@@ -80,6 +80,6 @@ Please feel free to open an issue or submit a pull request.
 
 ## License
 
-This is a guide, eveyone can use this!
+This is a guide, everyone can use this!
 
 ---
